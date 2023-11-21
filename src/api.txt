@@ -1,0 +1,46 @@
+new project using api crud operation
+
+---------------------------------
+React app usimg json server
+
+
+---------------------------------
+objective
+
+create aweb application using react js with the below problem statement
+
+            problem statement
+
+            create an application where the following functionalties are present
+
+
+            1.user can create,delete,edit card
+            2.the card must contain a name and a video/mp3 link
+            3.the user has the flexibility to create bucket to catwgories and card according to his/her choice
+            4.user can move a card to different bucket
+            5.on clicking on the card a model with an iframe should oen which starts playing the video
+            6.user can create delete a single card or multiple cards undera single bucket at once 
+            7.there should be a seperate tab called history which list the mp3/mp4 links that you have played 
+
+
+            i.e the card name the link and the item it was played
+
+
+            tech stack
+
+            -------------------
+
+            1.front-end: react
+            2.back end:create and use json server
+            3.any additional stacks/tools as per your performace
+            
+
+
+            create a watch history
+
+
+            1.create a watch history tab in home page
+            2.create a component for watch history
+            3.show that data in table format
+            4.create a watch key in db.json
+            5.get watch history from json file to watch history component
